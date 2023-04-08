@@ -45,5 +45,6 @@ Además, se propone ubicar los textos junto con los iconos en tamaño escritorio
 
 ### Instrucciones
 
+- El proyecto se encuentra productivo en https://prograweb-2-tp-1.netlify.app/
 - Para visualizar el home interno, hay que hacer click en el boton de "INGRESAR".
 - Para volver al home page, clic en "Cerrar sesión".
